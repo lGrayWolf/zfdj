@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zfdj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zfdj-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zfdj:war exploded" />
+    </root>
+  </artifact>
+</component>
